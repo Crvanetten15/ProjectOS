@@ -1,5 +1,8 @@
 # ProjectOS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
+
 ### Table of Contents
 
 - [Overview](#overview)
