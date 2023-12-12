@@ -1,5 +1,20 @@
 # ProjectOS
 
+### Table of Contents
+
+- [Overview](#overview)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Installation Steps](#installation-steps)
+- [Usage](#usage)
+- [Future Goals](#future-goals)
+- [Folder Structure](#folder-structure)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
+- [Contact](#contact)
+
 ## Overview
 
 ProjectOS claims to solve a simple problem, most Project Management Tools are own by the same company forcing you to do extreme integration within their Applications. We have set out to create an Open Source Solution to managing your Projects from the Desktop. Storing data on a single onboard application with a simple and responsive design will not only get you out of dealing with confusing UI but into developing your project.
